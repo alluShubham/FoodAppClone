@@ -35,3 +35,4 @@ Food Recipes project.
 
 - We have different recipes to check.
 - Users can select the option according to their convenience.
+- Thanks for visiting.
