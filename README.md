@@ -1,5 +1,5 @@
 ## FoodApp
-Food Recipes project.
+Food Recipes clone project.
 
 ## FoodApp use for below functions
 - User can Login and Signup.
